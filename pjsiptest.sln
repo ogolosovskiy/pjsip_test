@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pjsiptest", "pjsiptest\pjsiptest.vcproj", "{FAEC5E35-C236-4855-BF52-1EC28766B335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAEC5E35-C236-4855-BF52-1EC28766B335}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FAEC5E35-C236-4855-BF52-1EC28766B335}.Debug|Win32.Build.0 = Debug|Win32
+		{FAEC5E35-C236-4855-BF52-1EC28766B335}.Release|Win32.ActiveCfg = Release|Win32
+		{FAEC5E35-C236-4855-BF52-1EC28766B335}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
